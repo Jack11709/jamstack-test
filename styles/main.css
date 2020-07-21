@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: aquamarine;
+}
+
+main {
+  margin: 3rem auto;
+  max-width: 940px;
+}
+
+h1, p, div, h2 {
+  margin: 1rem;
+}
